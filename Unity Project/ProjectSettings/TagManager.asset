@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - trap
+  - MovingPlatform
+  - gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3937225077
+    locked: 0
+  - name: Middleground
+    uniqueID: 69601679
+    locked: 0
+  - name: Ground
+    uniqueID: 3552321389
+    locked: 0
+  - name: Entity
+    uniqueID: 2772554287
+    locked: 0
+  - name: Foreground
+    uniqueID: 3586024323
+    locked: 0
